@@ -240,6 +240,7 @@ a {
   flex: 1 1 45px;
   margin: 1px;
   min-width: 80px;
+  max-width: 107px;
 
 & svg {
   position: absolute;
